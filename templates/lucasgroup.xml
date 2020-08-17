@@ -1,0 +1,21 @@
+<templateSet group="lucasgroup">
+  <template name="jinclass" value="/**&#10; * 保留所有版权，禁止分享&#10; * author : 许进进 &#10; * time   : $date$ $time$&#10; * des    : $desc$&#10; */" description="类描述头" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="m" value="*&#10; * author : 许进进 &#10; * @description 描述一下方法的作用&#10; * @date: $date$ $time$&#10; * @param $param$&#10; * @return $return$&#10; */" description="方法注释模板" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="" defaultValue="groovyScript(&quot;if(\&quot;${_1}\&quot;.length() == 2) {return '';} else {def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();for(i = 0; i &lt; params.size(); i++) {if(i&lt;(params.size()-1)){result+=' * @param ' + params[i] + ' : ' + '\\n'}else{result+=' * @param ' + params[i] + ' : '}}; return result;}&quot;, methodParameters());  " alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="groovyScript(&quot;def returnType = \&quot;${_1}\&quot;; def result = ' * @return ' + returnType; return result;&quot;, methodReturnType());" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
