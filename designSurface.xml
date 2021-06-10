@@ -11,10 +11,12 @@
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_user_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_xmusic_player_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_protocal_jin.xml" value="0.2164855072463768" />
         <entry key="app/src/main/res/layout/fragment_usercenter.xml" value="0.14907407407407408" />
         <entry key="app/src/main/res/layout/item_view.xml" value="0.18802083333333333" />
         <entry key="app/src/main/res/layout/list_answer_item.xml" value="0.14907407407407408" />
         <entry key="app/src/main/res/layout/list_question_item.xml" value="0.14907407407407408" />
+        <entry key="lucaslib/src/main/res/layout/dialog_protocal.xml" value="0.14907407407407408" />
       </map>
     </option>
   </component>
