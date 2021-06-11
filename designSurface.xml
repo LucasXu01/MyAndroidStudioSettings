@@ -16,6 +16,7 @@
         <entry key="app/src/main/res/layout/item_view.xml" value="0.18802083333333333" />
         <entry key="app/src/main/res/layout/list_answer_item.xml" value="0.14907407407407408" />
         <entry key="app/src/main/res/layout/list_question_item.xml" value="0.14907407407407408" />
+        <entry key="lucaslib/src/main/res/drawable/protocal_agree.xml" value="0.32395833333333335" />
         <entry key="lucaslib/src/main/res/layout/dialog_protocal.xml" value="0.14907407407407408" />
       </map>
     </option>
