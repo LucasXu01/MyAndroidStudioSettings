@@ -3,6 +3,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.32135416666666666" />
+        <entry key="XAudio/src/main/res/layout/dialog_bottom_sheet.xml" value="0.19655797101449277" />
+        <entry key="XAudio/src/main/res/layout/dialog_bottom_sheet_item.xml" value="0.19655797101449277" />
+        <entry key="XAudio/src/main/res/layout/indictor_item_view.xml" value="0.19655797101449277" />
+        <entry key="XAudio/src/main/res/layout/indictor_view.xml" value="0.19655797101449277" />
         <entry key="app/src/main/res/drawable-v24/bg_gradually_shadow.xml" value="0.203125" />
         <entry key="app/src/main/res/drawable/circle_bluedi.xml" value="0.32395833333333335" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
@@ -11,6 +15,7 @@
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_user_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_xmusic_player_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_bottom_sheet_item.xml" value="0.19655797101449277" />
         <entry key="app/src/main/res/layout/dialog_protocal_jin.xml" value="0.2164855072463768" />
         <entry key="app/src/main/res/layout/fragment_usercenter.xml" value="0.14907407407407408" />
         <entry key="app/src/main/res/layout/item_view.xml" value="0.18802083333333333" />
