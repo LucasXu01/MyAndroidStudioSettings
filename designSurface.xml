@@ -10,8 +10,10 @@
         <entry key="XAudio/src/main/res/layout/dialog_bottom_sheet_item.xml" value="0.19655797101449277" />
         <entry key="XAudio/src/main/res/layout/indictor_item_view.xml" value="0.19655797101449277" />
         <entry key="XAudio/src/main/res/layout/indictor_view.xml" value="0.19655797101449277" />
+        <entry key="XImg/src/main/res/drawable/img_holder.xml" value="0.32395833333333335" />
         <entry key="app/src/main/res/drawable-v24/bg_gradually_shadow.xml" value="0.203125" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18645833333333334" />
+        <entry key="app/src/main/res/drawable/bg_weibo_tag.xml" value="0.32395833333333335" />
         <entry key="app/src/main/res/drawable/circle_bluedi.xml" value="0.32395833333333335" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.18645833333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.15020263424518743" />
