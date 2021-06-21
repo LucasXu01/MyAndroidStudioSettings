@@ -5,11 +5,12 @@
         <entry key="../../../../../../layout/custom_preview.xml" value="0.33541666666666664" />
         <entry key="../../../../layout/custom_preview.xml" value="0.11666666666666667" />
         <entry key="XAudio/src/main/res/layout/activity_music_service_layout.xml" value="0.125" />
-        <entry key="XAudio/src/main/res/layout/bottom_view.xml" value="0.19202898550724637" />
-        <entry key="XAudio/src/main/res/layout/dialog_bottom_sheet.xml" value="0.19655797101449277" />
+        <entry key="XAudio/src/main/res/layout/bottom_view.xml" value="0.1" />
+        <entry key="XAudio/src/main/res/layout/dialog_bottom_sheet.xml" value="0.21195652173913043" />
         <entry key="XAudio/src/main/res/layout/dialog_bottom_sheet_item.xml" value="0.19655797101449277" />
         <entry key="XAudio/src/main/res/layout/indictor_item_view.xml" value="0.19655797101449277" />
-        <entry key="XAudio/src/main/res/layout/indictor_view.xml" value="0.19655797101449277" />
+        <entry key="XAudio/src/main/res/layout/indictor_view.xml" value="0.1" />
+        <entry key="XAudio/src/main/res/layout/notification_big_layout.xml" value="0.1" />
         <entry key="XImg/src/main/res/drawable/img_holder.xml" value="0.32395833333333335" />
         <entry key="app/src/main/res/drawable-v24/bg_gradually_shadow.xml" value="0.203125" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18645833333333334" />
@@ -21,10 +22,12 @@
         <entry key="app/src/main/res/layout/activity_more_settings.xml" value="0.2197292757422931" />
         <entry key="app/src/main/res/layout/activity_music_player_layout.xml" value="0.19202898550724637" />
         <entry key="app/src/main/res/layout/activity_music_service_layout.xml" value="0.19202898550724637" />
+        <entry key="app/src/main/res/layout/activity_player_sample.xml" value="0.21195652173913043" />
         <entry key="app/src/main/res/layout/activity_radio.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_user_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_xmusic_player_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_bottom_sheet.xml" value="0.21195652173913043" />
         <entry key="app/src/main/res/layout/dialog_bottom_sheet_item.xml" value="0.19655797101449277" />
         <entry key="app/src/main/res/layout/dialog_protocal_jin.xml" value="0.2164855072463768" />
         <entry key="app/src/main/res/layout/fragment_second.xml" value="0.15020263424518743" />
@@ -32,6 +35,7 @@
         <entry key="app/src/main/res/layout/item_view.xml" value="0.18802083333333333" />
         <entry key="app/src/main/res/layout/list_answer_item.xml" value="0.14907407407407408" />
         <entry key="app/src/main/res/layout/list_question_item.xml" value="0.14907407407407408" />
+        <entry key="app/src/main/res/layout/notification_small_layout.xml" value="0.21195652173913043" />
         <entry key="app/src/main/res/mipmap-xhdpi/ic_launcher.xml" value="0.2796875" />
         <entry key="imooc_voice/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="library/src/main/res/drawable/img_holder.xml" value="0.318974358974359" />
