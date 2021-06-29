@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.33541666666666664" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.11666666666666667" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="XAudio/src/main/res/layout/activity_music_service_layout.xml" value="0.125" />
         <entry key="XAudio/src/main/res/layout/bottom_view.xml" value="0.1" />
         <entry key="XAudio/src/main/res/layout/dialog_bottom_sheet.xml" value="0.21195652173913043" />
@@ -24,6 +24,7 @@
         <entry key="app/src/main/res/layout/activity_music_player_layout.xml" value="0.19202898550724637" />
         <entry key="app/src/main/res/layout/activity_music_service_layout.xml" value="0.19202898550724637" />
         <entry key="app/src/main/res/layout/activity_music_service_layout_yanyou_todo.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_music_white_noise_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_player_sample.xml" value="0.21195652173913043" />
         <entry key="app/src/main/res/layout/activity_radio.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_record_sample.xml" value="0.1" />
