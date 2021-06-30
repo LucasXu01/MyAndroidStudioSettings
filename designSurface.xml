@@ -33,6 +33,8 @@
         <entry key="app/src/main/res/layout/activity_xmusic_player_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/dialog_bottom_sheet.xml" value="0.21195652173913043" />
         <entry key="app/src/main/res/layout/dialog_bottom_sheet_item.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/dialog_bottom_sheet_item_yanyou.xml" value="0.17572463768115942" />
+        <entry key="app/src/main/res/layout/dialog_bottom_sheet_yanyou.xml" value="0.17572463768115942" />
         <entry key="app/src/main/res/layout/dialog_protocal_jin.xml" value="0.2164855072463768" />
         <entry key="app/src/main/res/layout/fragment_second.xml" value="0.15020263424518743" />
         <entry key="app/src/main/res/layout/fragment_usercenter.xml" value="0.14907407407407408" />
