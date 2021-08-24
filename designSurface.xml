@@ -17,7 +17,7 @@
         <entry key="app/src/main/res/drawable/bg_weibo_tag.xml" value="0.32395833333333335" />
         <entry key="app/src/main/res/drawable/circle_bluedi.xml" value="0.32395833333333335" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.18645833333333334" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_mine.xml" value="0.13703703703703704" />
         <entry key="app/src/main/res/layout/activity_more_settings.xml" value="0.2197292757422931" />
         <entry key="app/src/main/res/layout/activity_music_detail.xml" value="0.18568840579710144" />
