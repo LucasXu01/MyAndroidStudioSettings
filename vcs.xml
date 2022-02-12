@@ -94,6 +94,10 @@
           <option name="url" value="https://gitee.com/yashitongmeng2/android-getfan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/leavesCZY/ASM_Transform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
